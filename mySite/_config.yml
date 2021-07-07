@@ -1,0 +1,11 @@
+# Site settings
+title: Bryan Robbins
+email: btr1014@wildcats.unh.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Hi I'm Bryan, and welcome to my site!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://brobbins2001.github.io" # the base hostname & protocol for your site
+github_username:  brobbins2001
+
+# Build settings
+markdown: kramdown
